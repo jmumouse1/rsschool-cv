@@ -1,6 +1,6 @@
 # **Pryakhin Vladislav**
 
-![Photo](/rsschool-cv-html/img.jpg)
+![Photo](img.jpg)
 
 ### Contacs
 
