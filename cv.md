@@ -1,6 +1,6 @@
 # **Pryakhin Vladislav**
 
-![Photo](/rsschool-cv/img.jpg)
+![Photo](/https://github.com/jmumouse1/rsschool-cv/tree/gh-pages/img.jpg)
 
 ### Contacs
 
