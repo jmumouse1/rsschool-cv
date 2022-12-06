@@ -44,3 +44,9 @@ And I really want to develop in the field of IT. Because I see that this is the 
 This cv
 
 ---
+### Education
+
+- Astrakhan State University
+- First stage RS school
+
+---
