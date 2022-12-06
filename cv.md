@@ -50,3 +50,8 @@ This cv
 - First stage RS school
 
 ---
+### English
+
+My level is English Starter.
+But I study on Youtube Chanel English on playlists.
+Orange playlist.
