@@ -1,7 +1,5 @@
 # **Pryakhin Vladislav**
 
-![Photo](img.jpg)
-
 ### Contacs
 
 ---
