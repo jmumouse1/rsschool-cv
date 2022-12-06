@@ -28,3 +28,19 @@ And I really want to develop in the field of IT. Because I see that this is the 
 3. Markdown (newbee)
 
 ---
+### Code Example
+
+```
+<body>
+    <h1>Hello world</h1>
+</body>
+
+```
+
+---
+
+### Experience
+
+This cv
+
+---
